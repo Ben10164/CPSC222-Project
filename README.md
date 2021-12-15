@@ -8,3 +8,8 @@
 
 ## Thats cool but why?
 * As the name suggests, this repository is meant for the final project of the Fall 2021 CPSC222 class that I am taking taught by Gina Sprint. 
+
+## Usage
+* You can use the output cached by jupyter notebooks, but if you want to make your own changes you first must:
+    * Run `pip install -r requirements.txt` 
+    * Then enjoy making changes!
